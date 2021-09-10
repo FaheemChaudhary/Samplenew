@@ -1,0 +1,9 @@
+Navigation commands :
+1. driver.get();
+2.driver.navigateTo();
+3.driver.navigateTo().forward();
+4.driver.navigateTo().back();
+
+
+What is the return type of data provider
+Ans 2 dimensional array.
